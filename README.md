@@ -6,29 +6,29 @@
 
 ![](cover.png)
 
-## ➤ 安裝依賴
+## 📖 安裝依賴
 
-📖node10以上版本，建議使用yarn
+node10以上版本，建議使用yarn
 
 ```sh
 npm install -g yarn
 yarn
 ```
-## ➤ 指令
+## ⚗️ 指令
 
-🏃開發運行:
+開發運行:
 
 ```sh
 npm run dev
 ```
 
-🔨建置:
+建置:
 
 ```sh
 npm run build:prod
 ```
 
-## ➤ 使用書名範例
+## 🔨 使用書名範例
 
 這是使用說明文字
 ```js
@@ -41,7 +41,7 @@ let rootVue = new Vue({
 
 _斜體文字範例 詳細說明起至[連結文字][wiki]_
 
-## ➤ 列表範例
+## ⚗️ 列表範例
 
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
@@ -56,7 +56,7 @@ _斜體文字範例 詳細說明起至[連結文字][wiki]_
 * 0.0.1
     * Work in progress
 
-## ➤ 其他說明
+## 🏃 其他說明
 
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
@@ -64,7 +64,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
-## ➤ 數字列表範例
+## 🌟 數字列表範例
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
