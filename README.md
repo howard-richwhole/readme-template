@@ -1,6 +1,6 @@
 <h1 align="center">專案名稱 👏</h1>
-<h3 align="center">簡略說明</h3>
 
+### 簡略說明
 ![last commit][last-commit]
 [![node version][node-version]][node-url]
 
