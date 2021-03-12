@@ -10,11 +10,11 @@
 
 node10以上版本，建議使用yarn
 
-1. 
+1. 安裝yarn
 ```sh
 npm install -g yarn
 ```
-2. 
+2. 安裝依賴
 ```sh
 npx yarn
 ```
