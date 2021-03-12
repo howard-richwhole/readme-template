@@ -1,26 +1,24 @@
-# Product Name
-> Short blurb about what your product does.
+# 專案名稱
+> 範例用測試
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
 ## Installation
 
-OS X & Linux:
+dev:
 
 ```sh
-npm install my-crazy-module --save
+npm run dev
 ```
 
-Windows:
+build:
 
 ```sh
-edit autoexec.bat
+npm run build:prod
 ```
 
 ## Usage example
@@ -34,8 +32,11 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
-make install
-npm test
+npm install
+```
+
+```sh
+yarn
 ```
 
 ## Release History
