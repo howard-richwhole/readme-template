@@ -4,7 +4,7 @@
 ![last commit][last-commit]
 [![node version][node-version]][node-url]
 
-![](header.png)
+![](cover.png)
 
 ## 指令
 
