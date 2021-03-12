@@ -1,4 +1,4 @@
-<h1 align="center">專案名稱 👋</h1>
+<h1 align="center">專案名稱 👏</h1>
 
 ![last commit][last-commit]
 [![node version][node-version]][node-url]
