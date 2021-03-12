@@ -3,7 +3,7 @@
 
 [![last commit][last-commit]][]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]]
+[![Downloads Stats][npm-downloads]][]
 
 ![](header.png)
 
