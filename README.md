@@ -42,12 +42,10 @@ _斜體文字範例 詳細說明起至[連結文字][wiki]_
 
 ## ⚗️ 列表範例
 
-`cover.png`
-* 封面圖
-
-`README.md`
-* readme 檔
-
+檔名                          | 用途            
+---                          | ---                
+`cover.png`                  | 封面圖            
+`README.md`                  | readme 檔           
 * 0.2.0
     * CHANGE: Remove `setDefaultXYZ()`
     * ADD: Add `init()`
