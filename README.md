@@ -9,6 +9,7 @@
 ## 📖 安裝依賴
 
 node10以上版本，建議使用yarn
+
 1. 
 ```sh
 npm install -g yarn
@@ -16,6 +17,7 @@ npm install -g yarn
 2. 
 ```sh
 npx yarn
+```
 ## ⚗️ 指令
 
 開發運行:
