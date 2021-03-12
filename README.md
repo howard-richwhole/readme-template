@@ -1,7 +1,7 @@
 # 專案名稱
 > 範例用測試
 
-[![last commit][npm-image]]
+[![last commit][last-commit]]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
