@@ -3,7 +3,6 @@
 
 ![last commit][last-commit]
 [![node version][node-version]][node-url]
-![Downloads Stats][npm-downloads]
 
 ![](header.png)
 
