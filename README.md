@@ -4,7 +4,7 @@
 ![last commit][last-commit]
 [![node version][node-version]][node-url]
 
-![](cover.png | width=200)
+![](cover.png=250x250)
 
 ## 指令
 
