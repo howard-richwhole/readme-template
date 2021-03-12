@@ -42,8 +42,8 @@ _斜體文字範例 詳細說明起至[連結文字][wiki]_
 
 ## ⚗️ 列表範例
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
+* `cover.png`
+    * 封面圖
 * 0.2.0
     * CHANGE: Remove `setDefaultXYZ()`
     * ADD: Add `init()`
