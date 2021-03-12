@@ -6,39 +6,35 @@
 
 ![](cover.png)
 
+## 安裝依賴
+
+node10以上版本，建議使用yarn
+
+```sh
+npm install -g yarn
+yarn
+```
 ## 指令
 
-dev:
+開發運行:
 
 ```sh
 npm run dev
 ```
 
-build:
+建置:
 
 ```sh
 npm run build:prod
 ```
 
-## Usage example
+## 使用書名範例
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+這是使用說明文字
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_斜體文字範例 詳細說明起至[連結文字][wiki]_
 
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-npm install
-```
-
-```sh
-yarn
-```
-
-## Release History
+## 列表範例
 
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
@@ -53,7 +49,7 @@ yarn
 * 0.0.1
     * Work in progress
 
-## Meta
+## 其他說明
 
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
@@ -61,7 +57,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
-## Contributing
+## 數字列表範例
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
