@@ -7,7 +7,7 @@
 
 ![](header.png)
 
-## Installation
+## 指令
 
 dev:
 
