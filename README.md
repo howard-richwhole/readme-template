@@ -1,6 +1,6 @@
 <p align="center">
     <h1>👏 專案名稱 👏</h1>
-    <img src="cover.png" />
+    <img src="cover.png">
 </p>
 
 ### 簡略說明
