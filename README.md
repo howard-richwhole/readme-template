@@ -1,5 +1,7 @@
-<h1 align="center">專案名稱 👏</h1>
-<img align="center" src="cover.png" />
+<p align="center">
+    <h1 >專案名稱 👏</h1>
+    <img src="cover.png" />
+</p>
 
 ### 簡略說明
 ![last commit][last-commit]
