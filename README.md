@@ -1,6 +1,7 @@
+
+<h1 align="center">👏 專案名稱 👏</h1>
 <p align="center">
-    <h1>👏 專案名稱 👏</h1>
-    <a><img src="cover.png" alt="Logo"></a>
+    <img src="cover.png" alt="Logo">
 </p>
 
 ### 簡略說明
