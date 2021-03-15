@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 >專案名稱 👏</h1>
+    <h1>👏 專案名稱 👏</h1>
     <img src="cover.png" />
 </p>
 
