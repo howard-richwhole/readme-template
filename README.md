@@ -65,6 +65,22 @@ _斜體文字範例 詳細說明起至[連結文字][wiki]_
 * 0.0.1
     * Work in progress
 
+## 🗄️ 檔案結構
+
+```bash
+├── mock                       # 資料夾
+├── public                     # 資料夾
+│   │── favicon.ico            # 檔案
+│   │── manifest.json          # 檔案
+│   └── index.html             # 檔案
+├── src                        # 資料夾
+│   ├── api                    # 檔案
+│   ├── assets                 # 檔案
+├── tests                      # 資料夾
+├── .circleci/                 # 資料夾
+├── .browserslistrc            # 檔案
+```
+
 ## 🏃 其他說明
 
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
